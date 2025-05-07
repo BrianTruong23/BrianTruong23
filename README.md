@@ -12,12 +12,9 @@ I'm a passionate software developer focused on building innovative solutions. I 
 - **Cloud:** AWS, Vercel
 
 ## 🎯 Current Projects
-- 🔭 Working on [Your Current Project]
-- 🌱 Learning [What you're currently learning]
-- 👯 Looking to collaborate on [Types of projects you're interested in]
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianTruong23&show_icons=true&theme=radical)
+- 🔭 Working on LLM and AI projects. 
+- 🌱 Learning about visual encoder, transformers and LLM.
+- ✌️ Looking to collaborate on full stack and AI projects. 
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truongthoithang/)
@@ -26,14 +23,14 @@ I'm a passionate software developer focused on building innovative solutions. I 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongthoithang@gmail.com)
 
 ## 🎯 Goals
-- [ ] Contribute to open-source projects
-- [ ] Master [specific technology or skill]
-- [ ] Build [specific type of project]
+- [ ] Contribute to open-source projects.
+- [ ] Master Explainable AI and Mutlimodal AI.
+- [ ] Build software that matters.
 
 ## ⚡ Fun Facts
 - 🎮 When I'm not coding, you can find me [your hobby]
-- 🎯 I speak [languages you know]
-- 🎯 [Interesting fact about yourself]
+- 🎯 I speak Vietnamese and English
+- 🎯 My first, last and middle names all start with "T" so some people call me "Triple T"
 
 ---
 ⭐️ From [BrianTruong23](https://github.com/BrianTruong23)
