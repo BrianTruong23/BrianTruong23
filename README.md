@@ -1,7 +1,7 @@
 # Hi there, I'm Thang Truong 👋
 
 ## 🚀 About Me
-I'm a passionate software developer focused on building innovative solutions. I love exploring new technologies and turning complex problems into simple, beautiful solutions.
+I am a passionate software developer and machine learning engineer. I have both experience in research and industry with being a Research Assistant at UT iSchool and a software developer at LAITS (UT Austin's Liberal Arts Department). For Fall 2025, I am an incoming PhD student at Auburn University under the guidance of Professor Anh Totti Nguyen, where I am driven to bring impactful research to life. Happy to connect and talk about everything in between whethere it is about tech, sport, travel, poem and food!
 
 ## 💻 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, Java
