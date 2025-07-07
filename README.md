@@ -21,6 +21,7 @@ I am a passionate software developer and machine learning engineer. I have both 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianTruong23)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/truo2323)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongthoithang@gmail.com)
+[![Personal Website](https://briantruong23.github.io/thang-personal-website/)
 
 ## 🎯 Goals
 - [ ] Contribute to open-source projects.
