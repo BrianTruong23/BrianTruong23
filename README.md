@@ -1,4 +1,4 @@
-# Hi there, I'm Thang Truong 👋
+# Hi there, I'm Thang Truong (Brian) 👋
 
 ## 🚀 About Me
 I am a passionate software developer and machine learning engineer. I have both experience in research and industry with being a Research Assistant at UT iSchool and a software developer at LAITS (UT Austin's Liberal Arts Department). For Fall 2025, I am an incoming PhD student at Auburn University under the guidance of Professor Anh Totti Nguyen, where I am driven to bring impactful research to life. Happy to connect and talk about everything in between whethere it is about tech, sport, travel, poem and food!
@@ -31,7 +31,7 @@ I am a passionate software developer and machine learning engineer. I have both 
 ## ⚡ Fun Facts
 - 🎮 When I'm not coding, you can find me at the gym, at home doing leetcode or at the cinema watching a lot of movies.
 - 🎯 I speak Vietnamese and English
-- 🎯 My first, last and middle names all start with "T" so some people call me "Triple T"
+- 🎯 My first, last and middle names all start with "T" so some people call me "Triple T". Feel free to email me as "Dear Mr. Triple T", then I know you read my profile here.
 
 ---
 ⭐️ From [BrianTruong23](https://github.com/BrianTruong23)
