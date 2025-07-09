@@ -29,7 +29,7 @@ I am a passionate software developer and machine learning engineer. I have both 
 - [ ] Build software that matters.
 
 ## ⚡ Fun Facts
-- 🎮 When I'm not coding, you can find me [your hobby]
+- 🎮 When I'm not coding, you can find me at the gym, at home doing leetcode or at the cinema watching a lot of movies.
 - 🎯 I speak Vietnamese and English
 - 🎯 My first, last and middle names all start with "T" so some people call me "Triple T"
 
